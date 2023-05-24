@@ -1,0 +1,8 @@
+body {background: palegreen}
+
+input[type=text]{
+    background: none;
+    color: grey;
+    padding: 10px;
+    border: 1px solid black;
+}
